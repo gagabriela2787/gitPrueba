@@ -10,3 +10,6 @@ web de git, por otro lado voy a ver que falta hacer en  git, ya sea un readme o 
 
 '''
 
+
+bueno seleccioné, para editar el file y estoy  agregando texto, voy a intentar hacer un pull para visual
+
