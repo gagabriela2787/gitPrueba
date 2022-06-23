@@ -16,3 +16,4 @@ web de git, por otro lado voy a ver que falta hacer en  git, ya sea un readme o 
 
 
 voy hacer otro push mas 14.07'''
+ '''entro al archivo (por ej, index.py) y selecciono el lapiz ( edit this file) y puedo  agregar texto, ahora voy a probar una new branch
