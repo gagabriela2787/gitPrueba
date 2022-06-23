@@ -16,3 +16,4 @@ web de git, por otro lado voy a ver que falta hacer en  git, ya sea un readme o 
 
 
 voy hacer otro push mas 14.07'''
+ejercicios de  python
